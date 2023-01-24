@@ -1,24 +1,10 @@
-# test-app
+E-commerce | Vue.js
 
-## Project setup
-```
-npm install
-```
+Here, in this 'poke out an eye' design, i did my first steps in development using vue.js. All element stylized by figma mockup prepared by my friend.
+I Analyzed all user interaction, prepared templates and programmed the behavior of all interactive elements, the relationship between components
+Environment: VScode, GIT, JS, HTML, CSS, VueJS 2, vuex, flexbox, Figma
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![img](https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/img-portfolio/Ecommerce.png)
+![img](https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/img-portfolio/Ecommerce-3.png)
+![img](https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/img-portfolio/Ecommerce-2.png)
